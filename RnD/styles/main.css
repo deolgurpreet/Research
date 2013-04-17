@@ -24,3 +24,5 @@ body
     color: black;
     padding: 7px;
 }
+.km-ios .checkout { background-color: green; }
+    .km-android .checkout { background-color: red; }
